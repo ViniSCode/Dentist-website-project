@@ -14,6 +14,9 @@ As paletas de cores do site podem ser facilmente alteradas, o site foi desenvolv
 # Imagens do Projeto Desktop
 ![enter image description here](https://github.com/ViniSCode/nlw-together-Origin/blob/main/Project%20Images/ProjectImageDesktop.PNG?raw=true)
 
+OBS: alguns dos ícones utilizados no projeto (na seção services) não estão funcionando direito no vercel. se quiser ver o projeto com os ícones 
+funcionando, baixe o código e abra o arquivo index.html
+
  Veja o site clicando [aqui](https://nlw-together-origin-website.vercel.app/)
 
 # Imagens do Projeto Mobile
