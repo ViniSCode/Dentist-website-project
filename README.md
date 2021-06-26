@@ -1,6 +1,5 @@
 # nlw-together-Origin
 Projeto - Website - Trilha Origin Next Level Week da Rocketseat
-### alguns dos ícones no VERCEL não estão funcionando corretamente por conta do icomoon, para ver o projeto com alta fidelidade, baixe o código e abra o index.html
 
 **Este projeto foi desenvolvido no evento Next Level Week da Rocketseat. Em uma semana temos o desafio de desenvolver um website juntos.**
 
@@ -18,11 +17,10 @@ As paletas de cores do site podem ser facilmente alteradas, o site foi desenvolv
 OBS: alguns dos ícones utilizados no projeto (na seção services) não estão funcionando direito no vercel. se quiser ver o projeto com os ícones 
 funcionando, baixe o código e abra o arquivo index.html
 
- Veja o site clicando [aqui](https://nlw-together-origin-website.vercel.app/)
 
 # Imagens do Projeto Mobile
 ![enter image description here](https://github.com/ViniSCode/nlw-together-Origin/blob/main/Project%20Images/ProjectImageMobileNoBg.png?raw=true)
- Veja o site clicando [aqui](https://nlw-together-origin-website.vercel.app/)
+
 <br>
 
 Participar dessa NLW foi realmente sensacional, aprender como utilizar um plugin/biblioteca no javascript para fazer um slide e um scroll reveal foi muito massinha, nunca tinha utilizado antes.
@@ -38,4 +36,3 @@ a Rocketseat vem me ajudando muito nesse meu início, quero parabenizar o trabal
 e um abraço especial para o Mayk Brito, ele é fera 💜
 
 
- ## Veja o site clicando [aqui](https://nlw-together-origin-website.vercel.app/)
