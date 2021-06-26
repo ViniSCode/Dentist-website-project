@@ -1,6 +1,6 @@
 # nlw-together-Origin
 Projeto - Website - Trilha Origin Next Level Week da Rocketseat
-### alguns dos ícones no VERCEL não estão funcionando corretamente por conta do icomoon para ver o projeto com alta fidelidade, baixe o código e abra o index.html
+### alguns dos ícones no VERCEL não estão funcionando corretamente por conta do icomoon, para ver o projeto com alta fidelidade, baixe o código e abra o index.html
 
 **Este projeto foi desenvolvido no evento Next Level Week da Rocketseat. Em uma semana temos o desafio de desenvolver um website juntos.**
 
