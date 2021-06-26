@@ -23,8 +23,8 @@ funcionando, baixe o código e abra o arquivo index.html
 
 <br>
 
-### Como abrir o projeto?
-faça download do meu codigo, extraia-o e abra o index.html
+## Como abrir o projeto?
+### faça download do meu codigo, extraia-o e abra o index.html
 
 Participar dessa NLW foi realmente sensacional, aprender como utilizar um plugin/biblioteca no javascript para fazer um slide e um scroll reveal foi muito massinha, nunca tinha utilizado antes.
 
