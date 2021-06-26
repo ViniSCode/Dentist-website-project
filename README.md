@@ -26,6 +26,8 @@ funcionando, baixe o código e abra o arquivo index.html
 ## Como abrir o projeto?
 ### faça download do meu codigo, extraia-o e abra o index.html
 
+
+# Como foi o evento?
 Participar dessa NLW foi realmente sensacional, aprender como utilizar um plugin/biblioteca no javascript para fazer um slide e um scroll reveal foi muito massinha, nunca tinha utilizado antes.
 
 quando aprendemos fazer o menu do site com animação automática de acordo com o scroll, eu fiquei de queixo caído, foi um aprendizado e tanto 😁.
